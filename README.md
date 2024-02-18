@@ -1,6 +1,7 @@
 # Winter Connection - Bridging the Gap
 
-[![Winter Connection Mascot](file:///var/folders/3t/bp5t5c1n1bg0_69ls7gqxstw0000gn/T/TemporaryItems/NSIRD_screencaptureui_krZcYa/Screenshot%202024-02-17%20at%2010.18.27%E2%80%AFPM.png)]
+![Screenshot](https://drive.google.com/file/d/10QnoryRDsRNe3nbtpVCRnoumgp10ZJNG/view?usp=sharing)
+
 ## The Loneliness Conundrum
 
 In the digital age, where connections are just a click away, loneliness remains a persistent challenge, particularly among post-secondary students and the elderly. This pervasive loneliness not only affects individual well-being but also erodes the fabric of our communities.
