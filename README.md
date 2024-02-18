@@ -1,7 +1,6 @@
 # Winter Connection - Bridging the Gap
 
-[![Winter Connection Mascot](file:///var/folders/3t/bp5t5c1n1bg0_69ls7gqxstw0000gn/T/TemporaryItems/NSIRD_screencaptureui_krZcYa/Screenshot%202024-02-17%20at%2010.18.27%E2%80%AFPM.png)](https://www.figma.com/file/tNgLfgd8aRbC9iApetWXM9/Friendzy---App-UI-Kit-(Community)?type=design&node-id=224%3A157&mode=design&t=pdsHZNafy3YMj4sH-1)
-
+[![Winter Connection Mascot](file:///var/folders/3t/bp5t5c1n1bg0_69ls7gqxstw0000gn/T/TemporaryItems/NSIRD_screencaptureui_krZcYa/Screenshot%202024-02-17%20at%2010.18.27%E2%80%AFPM.png)]
 ## The Loneliness Conundrum
 
 In the digital age, where connections are just a click away, loneliness remains a persistent challenge, particularly among post-secondary students and the elderly. This pervasive loneliness not only affects individual well-being but also erodes the fabric of our communities.
