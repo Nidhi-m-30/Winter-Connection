@@ -1,7 +1,5 @@
 # Winter Connection - Bridging the Gap
 
-![Screenshot](https://drive.google.com/file/d/10QnoryRDsRNe3nbtpVCRnoumgp10ZJNG/view?usp=sharing)
-
 ## The Loneliness Conundrum
 
 In the digital age, where connections are just a click away, loneliness remains a persistent challenge, particularly among post-secondary students and the elderly. This pervasive loneliness not only affects individual well-being but also erodes the fabric of our communities.
@@ -41,7 +39,7 @@ Winter Connection is more than a platform; it's a catalyst for change. We contin
 Winter Connection is not just about surviving winter; it's about thriving in it. Together, let's turn the coldest season into the warmest embrace.
 
 ### App Prototype
-Explore our app prototype on Figma: [Winter Connection Prototype]([link_to_figma_prototype](https://www.figma.com/file/tNgLfgd8aRbC9iApetWXM9/Friendzy---App-UI-Kit-(Community)?type=design&node-id=224%3A157&mode=design&t=pdsHZNafy3YMj4sH-1))
+Explore our app prototype on Figma: [Winter Connection Prototype](https://www.figma.com/file/tNgLfgd8aRbC9iApetWXM9/Friendzy---App-UI-Kit-(Community)?type=design&node-id=224%3A157&mode=design&t=pdsHZNafy3YMj4sH-1)
 
 ## Our Team: Bug Diggers
 
